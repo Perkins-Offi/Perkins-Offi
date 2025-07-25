@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Perkins
-- 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning SQL and Tableau
-- 💞️ I’m looking to collaborate on Data Analysis Projects
+- 👀 I’m interested in Data Science, Machine Learning, and Artificial Intelligence
+- 💞️ I’m looking to collaborate on Innovative Projects
 - 📫 How to reach me: perkins.offi@gmail.com
 
 <!---
